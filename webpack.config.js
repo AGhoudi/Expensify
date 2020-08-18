@@ -27,9 +27,9 @@ module.exports = {
                 'css-loader',
                 'sass-loader'
             ]
-        }]
+        }
+        ]
     },
-    mode: 'development',
     plugins: [
         new webpack.DefinePlugin({
             'process.env.FIREBASE_API_KEY': JSON.stringify(process.env.FIREBASE_API_KEY),

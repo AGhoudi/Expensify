@@ -5,12 +5,23 @@ import ExpenseListItem from './ExpenseListItem';
 import selectExpenses from '../selectors/expenses';
 
 export const ExpenseList = (props) => (
-    <React.Fragment>
-        <h1>Expense List</h1>
-        {props.expenses.map((expense) => {
-            return <ExpenseListItem key={expense.id} {...expense} />
-        })}
-    </React.Fragment>
+    <div className="content-container">
+        <div className="list">
+            <div className="show-for-mobile">Expenses</div>
+            <div className="show-for-desktop">Expense</div>
+            <div className="show-for-desktop">Amount</div>
+        </div>        
+    {   
+        props.expenses.length === 0 ? 
+        (
+            <p>No Expenses</p>
+        ) : (
+            props.expenses.map((expense) => {
+                return <ExpenseListItem key={expense.id} {...expense} />
+            })
+        )        
+    }
+    </div>
 );
 
 const mapStateToProps = (state) => {
