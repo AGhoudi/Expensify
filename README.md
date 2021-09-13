@@ -1,7 +1,7 @@
 ![expensify](https://user-images.githubusercontent.com/27373255/133159971-0a365407-715f-4177-97af-7ed6214810bf.png)
 
 
-<div align=center><img src="https://user-images.githubusercontent.com/27373255/131180724-f4b371b2-087a-4067-87bf-7550af64d3f5.png" alt="memory-game"/></div>
+<div align=center><img src="https://user-images.githubusercontent.com/27373255/133159971-0a365407-715f-4177-97af-7ed6214810bf.png" alt="expensify"/></div>
 <h2 align=center>🎯 Objectif du projet :</h2>
 <p align=center>A Venir....</p>
 
