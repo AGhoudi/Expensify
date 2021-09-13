@@ -1,6 +1,3 @@
-![expensify](https://user-images.githubusercontent.com/27373255/133159971-0a365407-715f-4177-97af-7ed6214810bf.png)
-
-
 <div align=center><img src="https://user-images.githubusercontent.com/27373255/133159971-0a365407-715f-4177-97af-7ed6214810bf.png" alt="expensify"/></div>
 <h2 align=center>🎯 Objectif du projet :</h2>
 <p align=center>A Venir....</p>
@@ -10,7 +7,7 @@
 <p align=center>A Venir...</br>
 </br>
 </br>
-Il y a un nombre de paires de cartes, une fois qu'on les à toutes trouvées, le jeu est fini.</p>
+</p>
 
 <h2 align=center>👁️ Visuel :</h2>
 <div align=center><img src="https://i.postimg.cc/XvK18NBm/memory.jpg" alt="visuel du jeu"</div>
