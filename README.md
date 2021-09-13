@@ -8,7 +8,7 @@
 
 <p align=center>A Venir...</br>
 </br>
-Le principe du jeu est simple, lors d'un clic on retourne une carte, l'objectif du jeu est de retourner une paire de carte identique.</br>
+</br>
 Il y a un nombre de paires de cartes, une fois qu'on les à toutes trouvées, le jeu est fini.</p>
 
 <h2 align=center>👁️ Visuel :</h2>
